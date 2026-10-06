@@ -11,9 +11,9 @@ Send an email to **hello@yousj.cc** with the username you'd like, and I'll set o
 ## Server settings
 
 - 📥 IMAP: `mail.yousj.cc`, port `993` (SSL/TLS)
-- 📤 SMTP: `mail.yousj.cc`, port `587` (STARTTLS)
+- 📤 SMTP: `mail.yousj.cc`, port `2525` (STARTTLS)
 
-Use your full email address as the username.
+Use your full email address as the username. Port 2525 is used instead of the usual 587 so it also works behind VPNs that block standard mail ports.
 
 ## Under the hood
 
