@@ -10,10 +10,10 @@ Send an email to **hello@yousj.cc** with the username you'd like, and I'll set o
 
 ## Server settings
 
-- 📥 IMAP: `mail.yousj.cc`, port `143` (STARTTLS)
-- 📤 SMTP: `mail.yousj.cc`, port `2525` (STARTTLS)
+- 📥 IMAP: `bj.yousj.cc`, port `143` (STARTTLS)
+- 📤 SMTP: `bj.yousj.cc`, port `2525` (STARTTLS)
 
-Use your full email address as the username. Port 2525 is used instead of the usual 587 so it also works behind VPNs that block standard mail ports.
+Use your full email address as the username. Port 2525 is used instead of the usual 587 so it also works behind VPNs that block standard mail ports. `bj.yousj.cc` routes through a Beijing relay for faster, more stable connections from China.
 
 ## Under the hood
 
